@@ -1,0 +1,55 @@
+{
+	"czqgList": [
+		{
+			"skuId": "10102589530",
+			"imgurl": "../build/images/goods.jpg",
+			"colorCardName": "人气",
+			"goods": [
+				{
+					"imgurl": "../build/images/goods.jpg"
+				}
+			]
+		},
+		{
+			"skuId": "10102589530",
+			"imgurl": "../build/images/goods1.jpg",
+			"colorCardName": "",
+			"goods": [
+				{
+					"imgurl": "../build/images/goods1.jpg"
+				}
+			]
+		},
+		{
+			"skuId": "1850348",
+			"imgurl": "../build/images/goods.jpg",
+			"colorCardName": "人气",
+			"goods": [
+				{
+					"imgurl": "../build/images/goods.jpg"
+				}
+			]
+		},
+		{
+			"skuId": "1850349",
+			"imgurl": "../build/images/goods.jpg",
+			"colorCardName": "人气觉得",
+			"goods": [
+				{
+					"imgurl": "../build/images/goods.jpg"
+				}
+			]
+		},
+		{
+			"skuId": "1787309",
+			"imgurl": "../build/images/goods.jpg",
+			"colorCardName": "人气",
+			"goods": [
+				{
+					"imgurl": "../build/images/goods.jpg"
+				}
+			]
+		}
+	],
+	"czqgName": "今日比杀"
+}

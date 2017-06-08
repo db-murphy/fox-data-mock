@@ -1,0 +1,15 @@
+{
+	"code": 0,
+	"result": [
+		{
+			
+		},
+		{
+			"picUrl": "../build/images/ad_coll.jpg",
+			"url": "http://baidu.com",
+			"id": 0
+		}
+	],
+	"msg": "success",
+	"info": ""
+}

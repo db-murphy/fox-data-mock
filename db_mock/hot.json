@@ -1,0 +1,27 @@
+{
+	"code": 0,
+	"result": [
+		{
+			"isLike": 1,
+			"favNum": 12,
+			"viewNum": 45,
+			"shareNum": 34,
+			"id": 1
+		},
+		{
+			"isLike": 1,
+			"favNum": 12,
+			"viewNum": 45,
+			"shareNum": 34,
+			"id": 2
+		},
+		{
+			"isLike": 0,
+			"favNum": 12,
+			"viewNum": 45,
+			"shareNum": 34,
+			"id": 3
+		}
+	],
+	"msg": "success"
+}
